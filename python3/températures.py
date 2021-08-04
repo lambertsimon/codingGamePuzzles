@@ -31,4 +31,3 @@ for i in input().split():
  
 print(output)
  
-
